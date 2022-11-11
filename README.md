@@ -11,13 +11,13 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 📙 [PORTFOLIO](https://portfolio-rahman.netlify.app)
 📙 [LINKEDIN](https://linkedin.com/in/saifurrahmantanvir)
 📙 [INSTAGRAM](https://instagram.com/tanvirrahman.dev)
-📙 [TWITTER](https://twitter.com/tanvirrahmandev)
+📙 [TWITTER](https://twitter.com/tanvirrahman__)
 
 <br />
 
 <h2>Github stats & languages 📈</h2>
 
-[![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifurrahmantanvir&hide=contribs,prs&theme=apprentice)](https://github.com/saifurrahmantanvir)
+[![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifurrahmantanvir&hide=issues,prs&theme=apprentice)](https://github.com/saifurrahmantanvir)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahmantanvir&layout=compact&theme=apprentice)](https://github.com/saifurrahmantanvir)
 
@@ -26,6 +26,9 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 <h2>Some of my featured works 🎉🎉</h2>
 
 <p align="center">
+<a href="https://hudy-tanvir.netlify.app" target="_blank">
+<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/fdev.png" alt="fdev" height="250" width="250" />
+</a>
 <a href="https://hudy-tanvir.netlify.app" target="_blank">
 <img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/hudy.png" alt="hudy" height="250" width="250" />
 </a>
@@ -42,16 +45,9 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 <h2>My tech stack at a glance 🔥🔥</h2>
 
 <p align="center">
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/html.png" alt="HTML" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/css.png" alt="CSS" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/sass.png" alt="Sass" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/javascript.png" alt="Javascript" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/react.png" alt="react" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/redux.png" alt="redux" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/node.png" alt="node" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/express.png" alt="express" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/mongodb.png" alt="mongodb" height="65" width="65" />
-<img src="https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/git.png" alt="git" height="65" width="65" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,express,mongodb,firebase,pug,nextjs,webpack,vscode,cpp" />
+  </a>
 </p>
 
 <br /><br />
